@@ -1,50 +1,78 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Humza Majeed
+# Hi 👋 I'm Muhammad Humza Majeed
 
-### CS Undergrad & AI Enthusiast
+### CS Undergrad | AI & Software Engineering Enthusiast
 
-* 🌍  I'm based in Lahore
-* ✉️  Contact: [humzamajeed1535@gmail.com](mailto:humzamajeed1535@gmail.com)
-* 🧠  Currently learning: Operating Systems & Computer Vision
+- 🎓 5th Semester BS Computer Science @ Beaconhouse National University  
+- 📍 Lahore, Pakistan  
+- 🧠 Currently learning: Operating Systems, Computer Vision  
+- 🔍 Interests: AI Systems, Data Structures, Backend Development, Cybersecurity  
+- ✉️ Contact: humzamajeed1535@gmail.com  
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
+### Programming
 <p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" />
+</p>
+
+### Web, Backend & Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" />
+</p>
+
+### AI / Data / Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## 🧩 Featured Projects
+
+### 🔹 Visual Search AI Chatbot for E-Commerce
+Multimodal product search system supporting **image and text queries** using deep learning and NLP techniques.  
+**Tech:** Python, CNN (ResNet50), BERT, FAISS, MongoDB, Flask, Docker  
+
+### 🔹 AVL Tree Dictionary (C++)
+Implemented a self-balancing AVL Tree with insert, delete, and search operations using a menu-driven interface.  
+**Tech:** C++, Data Structures & Algorithms  
+
+### 🔹 Data Structures & Algorithms Practice
+Collection of implementations for linked lists, stacks, queues, sorting algorithms, and recursion problems.  
+**Tech:** C++, Python  
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/humzamajeed">
-    <img src="https://github-readme-stats.vercel.app/api?username=humzamajeed&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/humzamajeed">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=humzamajeed&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
-  </a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=humzamajeed&show_icons=true&count_private=true&hide_border=true" />
   <br/>
-
-  <a href="https://github.com/humzamajeed">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzamajeed&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
-  </a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humzamajeed&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzamajeed&layout=compact&hide_border=true" />
 </div>
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/Muhammad%20Humza%20Majeed" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://github.com/humzamajeed" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/Muhammad%20Humza%20Majeed" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
+  </a>
+  <a href="https://github.com/humzamajeed" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+  </a>
 </p>
+
